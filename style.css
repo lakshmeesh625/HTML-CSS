@@ -67,6 +67,23 @@ transition: 3s;
 
 
 
+#image{
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+    object-position: center;
+    border : 30px;
+    border-style:dotted;
+    border-color: red;
+}
+
+
+
+
+
+
+
+
 
 
 

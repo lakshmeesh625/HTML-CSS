@@ -1,0 +1,72 @@
+#div{
+    display: inline-block;
+    border: 2px solid;
+    border-color:black;
+    
+}
+
+#p{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#btn-1{
+
+margin-left:20px;
+margin-right: 10px;
+margin-bottom: 10px;
+
+
+}
+
+
+
+#music{
+    display: inline-block;
+    border: 15px solid;
+    border-color: black;
+    background-color: black;
+    margin-top: 10px;
+
+}
+
+
+#p3{
+    color:white;
+}
+
+
+#p4{
+    color:white;
+}
+
+
+
+#cat{
+    display: inline-block;
+    border: 5px solid;
+    border-color: black;
+
+}
+
+
+
+#image{
+    border-radius: 200px;
+    margin: 20px;
+    display:inline-block
+    
+}
+
+
+#p5{
+    display: inline-block;
+
+}
+
+
+#btn-6{
+    display:inline-block;
+}
+
